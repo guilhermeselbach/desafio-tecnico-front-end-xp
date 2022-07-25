@@ -66,3 +66,10 @@ Por ter feito o projeto paralelo ao curso da Trybe, que exige 6horas minimas por
 projetos do curso em andamento, consegui inicar o projeto apenas no dia 19/07/2002,
 o que não possibilou eu fazer uma cobertura maior de testes e não poder fazer os
 commits.
+
+Além de não conseguir fazer uma cobertura maior de testes, não tive tempo suficiente 
+para lidar com o erro de atualização da quantidade de cada ativo que aparece na tabela após
+alguma compra ou venda, fazendo com o que após alguma compra ou venda de ativo, as quantidades
+somem da tabela e também não consegui ter tempo para lidar com a atualizão dos ativos do usuário
+por isso os ativos não somam suas quantidades após as negociações, o mesmo serve para a ação já salva
+previamente na conta do usário.
